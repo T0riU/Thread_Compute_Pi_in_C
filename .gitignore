@@ -396,3 +396,7 @@ FodyWeavers.xsd
 
 # JetBrains Rider
 *.sln.iml
+Lab1Cloud.sln
+Lab1Cloud.sln
+Lab1Cloud/Lab1Cloud.vcxproj
+Lab1Cloud/Lab1Cloud.vcxproj.filters
